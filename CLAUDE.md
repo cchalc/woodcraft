@@ -1,8 +1,24 @@
 # Woodcraft
 
-Elixir/Phoenix web application.
+**AI-Powered Local Service Arbitrage Platform for White Rock / South Surrey, BC**
+
+Lead-generation platform that captures local service demand (dryer vent cleaning, home services) and dispatches to vetted providers, capturing 20-30% margin.
+
+**Origin**: Greg Wood Concept Pitch (April 2026)
+**Reference**: `docs/references/brainstorming.pdf`
 
 **Parent configuration**: See `~/cowork/dev/CLAUDE.md` for shared workflow, task management, and core principles.
+
+## Business Model
+
+1. Build local-branded landing pages optimized for high-intent search ("dryer vent cleaning White Rock")
+2. Capture leads via AI chatbot + booking forms
+3. Dispatch to vetted local service providers
+4. Collect payment, pay provider 70-80%, keep the spread
+
+**Pilot vertical**: Dryer vent cleaning (low competition, predictable demand, fire safety angle)
+
+See `tasks/todo.md` for full business plan and roadmap.
 
 ## Technology Stack
 
